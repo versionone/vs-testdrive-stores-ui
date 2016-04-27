@@ -2,4 +2,4 @@
 
 This project simulates a electronics retail store for demo purposes.
 
-Making a change for status hovers
+Making a change for status hovers so they are more effective
