@@ -6,5 +6,8 @@
 
 <p>This is a template page.</p>
 
+The following link is an HTML vulnerability.
+<a href="http://dangerouswebsite.com" target="_blank"> <!-- Noncompliant; "window.opener" will be not null on the new tab/window and can be changed by http://dangerouswebsite.com -->
+    
 </body>
 </html>
