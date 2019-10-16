@@ -32,6 +32,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
     
     // Output message
     document.getElementById("msg").innerHTML = msg;
-    
+    alert("all done");
   }, false);
 });
